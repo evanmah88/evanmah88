@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Evan Mah, a Web Devlopment and Design student
+- 🌱 I’m currently learning PHP/SQL, HTML, CSS and Javascript
+
+
 <!--
 **evanmah88/evanmah88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
