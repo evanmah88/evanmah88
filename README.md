@@ -2,6 +2,8 @@
 
 I am Evan Mah, a Web Devlopment and Design student
 - 🌱 I’m currently learning PHP/SQL, HTML, CSS and Javascript
+- 🤔 I’m looking for help with React, jQuery and Vue
+-  🔭 I’m currently working on a Website Redesign Capstone Project
 
 
 <!--
